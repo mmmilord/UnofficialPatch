@@ -6,8 +6,7 @@ Installation
 
 2. Extract the unofficialpatch folder and paste it here:  
   \Documents\My Games\Titan Quest - Immortal Throne\CustomMaps\
-
-e.g.  
+- e.g.  
   \Documents\My Games\Titan Quest - Immortal Throne\CustomMaps\unofficialpatch
 
 3. In-Game Instructions:
