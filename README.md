@@ -2,10 +2,10 @@ This is the soft mod version of the unofficial patch: https://steamcommunity.com
 
 Installation
 1. Extract the unofficialpatch folder and paste it here:
-\Documents\My Games\Titan Quest - Immortal Throne\CustomMaps
+  \Documents\My Games\Titan Quest - Immortal Throne\CustomMaps\
 
 e.g.
-\Documents\My Games\Titan Quest - Immortal Throne\CustomMaps\unofficialpatch
+  \Documents\My Games\Titan Quest - Immortal Throne\CustomMaps\unofficialpatch
 
 2. In-Game Instructions:
 Custom Quest, Load the unofficialpatch mod
