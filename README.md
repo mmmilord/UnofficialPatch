@@ -5,10 +5,9 @@ Installation
 1. Download unofficialpatch.7z
 
 2. Extract the unofficialpatch folder and paste it here:  
-  \Documents\My Games\Titan Quest - Immortal Throne\CustomMaps\
-- e.g.  
-  \Documents\My Games\Titan Quest - Immortal Throne\CustomMaps\unofficialpatch
+   - \Documents\My Games\Titan Quest - Immortal Throne\CustomMaps\
 
-3. In-Game Instructions:
-Custom Quest, Load the unofficialpatch mod
-Play your character
+3. In-Game Instructions:  
+   - Play Custom Quest  
+   - Load the unofficialpatch mod  
+   - Play your character  
